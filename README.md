@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm suraj pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt ="coding" width="600" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROZCOvlzYDqaS-i-pg17F8d-9mAf6YFe5uWw&usqp=CAU">
+<img align="right" alt ="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROZCOvlzYDqaS-i-pg17F8d-9mAf6YFe5uWw&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajpanday01&label=Profile%20views&color=0e75b6&style=flat" alt="surajpanday01" /> </p>
 
