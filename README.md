@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm suraj pandey<br> from
-  Dr Virendra Swaroop Institue Of Computer Studies.
+  Dr Virendra Swaroop Institute Of Computer Studies.
  </h1>
 <h3 align="center">FRESHER</h3>
 <img align="right" alt ="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROZCOvlzYDqaS-i-pg17F8d-9mAf6YFe5uWw&usqp=CAU">
